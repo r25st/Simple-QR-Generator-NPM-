@@ -20,5 +20,5 @@ output: Jalur file tempat gambar kode QR yang dihasilkan akan disimpan.
 ## Installation
 To install the package, use npm:
 ```bash
-npm install simple-qr-generator-npm
+npm i
 
