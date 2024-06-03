@@ -12,7 +12,7 @@ Simple-QR-Generator-NPM is a straightforward Node.js package for generating QR c
 With the help of npm module like
 inquirer to input data and
 qr-image to generate(data, output)
-data: The data that will be coded (misalnya, URL atau teks).
+data: The data that will be coded (URL or text).
 output: The path that the QR will be store.
 
 
