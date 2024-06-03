@@ -12,7 +12,9 @@ Berikut adalah contoh penggunaan skrip ini:
 
 ## API
 
-generate(data, output)
+With the help of npm module like
+inquirer to input data and
+qr-image generate(data, output)
 data: Data yang akan dikodekan dalam kode QR (misalnya, URL atau teks).
 output: Jalur file tempat gambar kode QR yang dihasilkan akan disimpan.
 
